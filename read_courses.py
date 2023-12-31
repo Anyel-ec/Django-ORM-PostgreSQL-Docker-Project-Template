@@ -10,7 +10,6 @@ application = get_wsgi_application()
 from crud.models import *
 from datetime import date
 
-
 # Your code starts from here:
 #Find all courses
 courses = Course.objects.all()
