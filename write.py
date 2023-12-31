@@ -84,8 +84,7 @@ def write_learners():
                            social_link='https://www.linkedin.com/john/')
     learner_john.save()
     print("Learner objects all saved... ")
-    #<HINT> Add more learners objects#
-    #...
+    
 
 # Clean any existing data first
 clean_data()
