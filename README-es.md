@@ -10,7 +10,7 @@ Esta guía proporciona instrucciones para configurar una aplicación de Django c
 ### Leer Cursos
 ![Alt text](docs/read_courses.PNG) 
 ### Leer Aprendices
-![Alt text](docs/read_learners.PNG) 
+![Alt text](docs/read_learninrs.PNG) 
 ### Seleccionar Curso
 ![Alt text](docs/select%20courses.PNG) 
 ### Seleccionar Aprendices
